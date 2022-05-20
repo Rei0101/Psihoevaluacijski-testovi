@@ -1,0 +1,47 @@
+.sve {
+	border: solid 1 px black;
+	margin-top: 15px;
+}
+#container h2 {
+	font-size: 16px;
+}
+
+body {
+	text-align: center;
+}
+.sve h1 {
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: rgba(37,56,86,255);
+	font-size: 24px;
+}
+.sve h3 {
+	font-size: 24px;
+}
+
+#container{
+	border: 2px solid rgba(37,56,86,255);
+	width: 400px;
+	height: 250px;
+	margin: 0 auto;
+	padding-top: 35px;
+}
+
+.sve #container{
+	margin: 0 auto;
+	margin-top: 250px;
+}
+
+form input{
+	margin: 10px;
+}
+
+#container *{
+
+	text-align: center;
+}
+
+#neispravno{
+	text-align: center;
+	margin-top: 20px;
+}

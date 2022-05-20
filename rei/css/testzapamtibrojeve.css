@@ -1,0 +1,13 @@
+#broj{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 36px;
+}
+
+#container{
+    height: 700px;
+    width: 1000px;
+    margin-top: 20px;
+    border: solid 2px rgba(37,56,86,255);
+    margin-bottom: 10px;
+}

@@ -1,0 +1,16 @@
+#svijetlo{
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+    margin: 0 auto;
+    margin-top: 200px;
+    
+}
+
+#container{
+    height: 700px;
+    width: 1000px;
+    margin-top: 20px;
+    border: solid 2px rgba(37,56,86,255);
+    margin-bottom: 10px;
+}

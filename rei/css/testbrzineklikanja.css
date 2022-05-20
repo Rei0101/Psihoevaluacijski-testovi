@@ -1,0 +1,27 @@
+#za-klikat{
+    background-color: royalblue;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    
+}
+
+#klikovi{
+    font-size: 36px;
+    text-align: center;
+    padding: 20px;
+}
+
+.vrijeme{
+    font-size: 36px;
+    text-align: center;
+    padding: 20px;
+}
+
+#container{
+    border: solid 2px rgba(37,56,86,255);
+    width: 1000px; 
+    height:700px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

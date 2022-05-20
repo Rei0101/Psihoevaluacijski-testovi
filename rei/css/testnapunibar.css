@@ -1,0 +1,28 @@
+#bar{
+    
+    margin: 0 auto;
+    margin-top: 150px;
+    width: 100px;
+    height: 400px;
+    position: relative;
+    border: solid black 1px;
+}
+
+#napunjeno{
+    max-height: 100%;
+    min-height: 0%;
+    position: absolute;
+    bottom: 0;
+    width: 98px;
+    height: 0px;
+    background-image: linear-gradient(red, yellow);
+
+}
+
+#container{
+    height: 700px;
+    width: 1000px;
+    margin-top: 20px;
+    border: solid 2px rgba(37,56,86,255);
+    margin-bottom: 10px;
+}

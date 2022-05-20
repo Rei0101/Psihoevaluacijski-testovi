@@ -1,0 +1,22 @@
+#container{
+    margin: 0 auto;
+    width: 1000px;
+    height: 700px;
+    background-color: greenyellow;
+    border: solid saddlebrown 3px;
+    position: relative; 
+}
+
+.meta{
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+    border: solid royalblue 2px;
+    position: absolute;
+}
+
+#vrijeme{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+}

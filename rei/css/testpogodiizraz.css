@@ -1,0 +1,15 @@
+#izraz{
+    width: 400px;
+    height: 400px;
+    margin-top: 450px;
+    margin: auto;
+}
+
+#container{
+    height: 700px;
+    width: 1000px;
+    margin-top: 20px;
+    border: solid 2px rgba(37,56,86,255);
+    margin-bottom: 10px;
+    padding-top: 150px;
+}
