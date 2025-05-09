@@ -21,6 +21,7 @@
 			<br />
 			<input type="submit" name="sbmt_login" value="Register">
 			</div>
+		</form>
 	</div>
   
   <?php
@@ -41,7 +42,6 @@
 		
 		
 ?>
-</form>
 </div>
 </body>
 </html>
