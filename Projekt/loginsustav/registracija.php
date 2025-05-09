@@ -30,7 +30,7 @@
 		$zaporka = $_POST['zaporka'];
 
         
-        $con = mysqli_connect("sql207.epizy.com","epiz_31700090", "M7de5WdlddrC","epiz_31700090_zavrsnirad");
+        $con = mysqli_connect("sql106.infinityfree.com", "if0_38944216", "azLIb3fPLS", "if0_38944216_zavrsnirad");
 		//$con = mysqli_connect("localhost", "root", "", "zavrsnirad");
 
         $upit = "INSERT INTO bodovi(ime, lozinka) VALUES('$korisnik', '$zaporka')";
