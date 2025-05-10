@@ -14,7 +14,7 @@ The project includes seven tests (assessments), which are:
 - Large number guessing test
 - Reaction test
 
-Note: More detailed documentation is included in the .docx file.
+>**Note**: More detailed documentation is included in the .docx file.
 
 ## Accessing the project
 
